@@ -1,0 +1,24 @@
+# Binary files
+go-web-server
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+*.out
+*.a
+
+# Dependency directory for vendoring (optional)
+/vendor/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
